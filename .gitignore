@@ -1,0 +1,25 @@
+# Credentials and local settings - never commit
+.env
+
+# Chrome profile with live LinkedIn/Ceipal session cookies and saved logins
+browser-data-recruit/
+
+# Run state: candidate profile data and the duplicate guard
+extract_job.json
+job_history.json
+profile_data.json
+ceipal_form_dump.json
+resumes/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local tool state
+.commandcode/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
