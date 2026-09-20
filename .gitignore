@@ -1,5 +1,4 @@
-# Credentials and local settings - never commit
-.env
+
 
 # Chrome profile with live LinkedIn/Ceipal session cookies and saved logins
 browser-data-recruit/

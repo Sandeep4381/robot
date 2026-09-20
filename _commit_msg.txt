@@ -1,0 +1,7 @@
+Document every setting in the .env template
+
+Adds the credential keys, the 2FA secret placeholder and the Ceipal endpoints
+the flow reads, so .env.example is a complete template and the real .env never
+needs to be committed.
+
+Co-authored-by: CommandCodeBot <noreply@commandcode.ai>
